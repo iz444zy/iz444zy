@@ -6,21 +6,21 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=18&duration=3000&pause=1000&color=C084FC&center=true&vCenter=true&width=600&lines=%3E%20building%20systems%20that%20make%20information%20usable_;%3E%20agent%20runtimes%20%7C%20data%20pipelines%20%7C%20automation_;%3E%20turning%20unstructured%20chaos%20into%20clarity_)](https://git.io/typing-svg)
 
-<table>
-  <tr>
-    <td width="40%" valign="top" align="left">
-      I build reliable backend, data, and agent systems that turn ambiguous workflows and inconsistent information into dependable software.
-      <br/><br/>
-      My work includes durable agent orchestration, schema-agnostic ingestion and retrieval, workflow automation, and developer infrastructure.
-      <br/><br/>
-      I am interested in tools that expand how people process information, explore ideas, and turn imagination into working systems.
-      <br/><br/>
-    </td>
-    <td width="60%" align="center">
-      <img src="assets/luma.webp" alt="Celestial animation" width="350"/>
-    </td>
-  </tr>
-</table>
+<div align="left">
+
+I build reliable backend, data, and agent systems that turn ambiguous workflows and inconsistent information into dependable software.
+
+My work includes durable agent orchestration, schema-agnostic ingestion and retrieval, workflow automation, and developer infrastructure.
+
+I am interested in tools that expand how people process information, explore ideas, and turn imagination into working systems.
+
+</div>
+
+<br/>
+
+<img src="assets/luma.webp" alt="Celestial animation" width="520"/>
+
+<br/><br/>
 
 <p>
   <a href="https://chaos-dev.ai">
