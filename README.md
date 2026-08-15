@@ -32,7 +32,7 @@
   <a href="https://x.com/404bloom">
     <img src="https://img.shields.io/badge/-X-420D4B?style=for-the-badge&logo=x&logoColor=ffffff&labelColor=6667AB" alt="X"/>
   </a>
-  <a href="assets/Izzy_Schlichting_Resume.pdf?raw=1">
+  <a href="assets/1_Izzy_Schlichting_Backend_AI_Infrastructure_Engineer_Resume%20copy.pdf?raw=1">
     <img src="https://img.shields.io/badge/-DOWNLOAD%20RESUME-420D4B?style=for-the-badge&logo=readme&logoColor=ffffff&labelColor=6667AB" alt="Download resume"/>
   </a>
   <a href="https://www.addtoany.com/share#url=https%3A%2F%2Fgithub.com%2Fiz444zy&amp;title=Izzy%20Lucia%20Schlichting%20on%20GitHub" title="Share my GitHub profile">
