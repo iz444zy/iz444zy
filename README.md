@@ -1,137 +1,131 @@
 <div align="center">
 
-# izzy lucia schlichting ✧ runtime systems engineer
-≽^•⩊•^≼
+<img src="assets/name-heading.svg" alt="izzy lucia schlichting — software engineer" width="700"/>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=18&duration=3000&pause=1000&color=00F5FF&center=true&vCenter=true&width=900&lines=memory%2C+orchestration%2C+infrastructure;local-first+runtime+systems;powered+by+CHAOS)](https://git.io/typing-svg)
+### technical founder ✧ backend, data & agent systems
 
-<img src="https://raw.githubusercontent.com/luvisaisa/luvisaisa/main/assets/luma.gif" alt="Celestial Banner" width="500"/>
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=18&duration=3000&pause=1000&color=C084FC&center=true&vCenter=true&width=600&lines=%3E%20building%20systems%20that%20make%20information%20usable_;%3E%20agent%20runtimes%20%7C%20data%20pipelines%20%7C%20automation_;%3E%20turning%20unstructured%20chaos%20into%20clarity_)](https://git.io/typing-svg)
 
-<br/>
-
-✮ ⋆ ˚｡𖦹 ⋆｡°✩
+<table>
+  <tr>
+    <td width="40%" valign="top" align="left">
+      I build reliable backend, data, and agent systems that turn ambiguous workflows and inconsistent information into dependable software.
+      <br/><br/>
+      My work includes durable agent orchestration, schema-agnostic ingestion and retrieval, workflow automation, and developer infrastructure.
+      <br/><br/>
+      I am interested in tools that expand how people process information, explore ideas, and turn imagination into working systems.
+      <br/><br/>
+    </td>
+    <td width="60%" align="center">
+      <img src="assets/luma.webp" alt="Celestial animation" width="350"/>
+    </td>
+  </tr>
+</table>
 
 <p>
   <a href="https://chaos-dev.ai">
-    <img src="https://img.shields.io/static/v1?label=CHAOS%20AI&message=chaos-dev.ai&style=for-the-badge&logo=googlechrome&logoColor=F5D5E0&labelColor=420D4B&color=6667AB" alt="CHAOS AI"/>
+    <img src="assets/chaos-badge.svg" alt="CHAOS-DEV.AI"/>
+  </a>
+  <a href="https://github.com/iz444zy" title="View my GitHub">
+    <img src="https://img.shields.io/badge/-GITHUB-420D4B?style=for-the-badge&logo=github&logoColor=ffffff&labelColor=6667AB" alt="GitHub"/>
   </a>
   <a href="https://www.linkedin.com/in/isa-lucia-sch/">
-    <img src="https://img.shields.io/static/v1?label=LinkedIn&message=isa-lucia-sch&style=for-the-badge&logo=linkedin&logoColor=F5D5E0&labelColor=420D4B&color=6667AB" alt="LinkedIn"/>
+    <img src="https://img.shields.io/badge/-LINKEDIN-420D4B?style=for-the-badge&logo=data%3Aimage/svg%2Bxml%3Bbase64%2CPHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCI%2BPHBhdGggZmlsbD0iI2ZmZiIgZD0iTTIwLjQ0NyAyMC40NTJoLTMuNTU0di01LjU2OWMwLTEuMzI4LS4wMjctMy4wMzctMS44NTItMy4wMzctMS44NTMgMC0yLjEzNiAxLjQ0NS0yLjEzNiAyLjkzOXY1LjY2N0g5LjM1MVY5aDMuNDE0djEuNTYxaC4wNDZjLjQ3Ny0uOSAxLjYzNy0xLjg1IDMuMzctMS44NSAzLjYwMSAwIDQuMjY3IDIuMzcgNC4yNjcgNS40NTV2Ni4yODZ6TTUuMzM3IDcuNDMzYy0xLjE0NCAwLTIuMDYzLS45MjYtMi4wNjMtMi4wNjUgMC0xLjEzOC45Mi0yLjA2MyAyLjA2My0yLjA2MyAxLjE0IDAgMi4wNjQuOTI1IDIuMDY0IDIuMDYzIDAgMS4xMzktLjkyNSAyLjA2NS0yLjA2NCAyLjA2NXptMS43ODIgMTMuMDE5SDMuNTU1VjloMy41NjR2MTEuNDUyek0yMi4yMjUgMEgxLjc3MUMuNzkyIDAgMCAuNzc0IDAgMS43Mjl2MjAuNTQyQzAgMjMuMjI3Ljc5MiAyNCAxLjc3MSAyNGgyMC40NTFDMjMuMiAyNCAyNCAyMy4yMjcgMjQgMjIuMjcxVjEuNzI5QzI0IC43NzQgMjMuMiAwIDIyLjIyMiAwaC4wMDN6Ii8%2BPC9zdmc%2B&labelColor=6667AB" alt="LinkedIn"/>
   </a>
   <a href="https://x.com/404bloom">
-    <img src="https://img.shields.io/static/v1?label=X&message=%40404bloom&style=for-the-badge&logo=x&logoColor=F5D5E0&labelColor=420D4B&color=6667AB" alt="X"/>
+    <img src="https://img.shields.io/badge/-X-420D4B?style=for-the-badge&logo=x&logoColor=ffffff&labelColor=6667AB" alt="X"/>
   </a>
-  <a href="mailto:izzy@chaos-dev.ai">
-    <img src="https://img.shields.io/static/v1?label=Email&message=izzy%40chaos-dev.ai&style=for-the-badge&logo=gmail&logoColor=F5D5E0&labelColor=420D4B&color=6667AB" alt="Email"/>
+  <a href="assets/Izzy_Schlichting_Resume.pdf?raw=1">
+    <img src="https://img.shields.io/badge/-DOWNLOAD%20RESUME-420D4B?style=for-the-badge&logo=readme&logoColor=ffffff&labelColor=6667AB" alt="Download resume"/>
   </a>
 </p>
 
-**Runtime Systems Engineer building AI-native infrastructure with CHAOS.**
+**isa.lucia.sch@outlook.com**
 
 </div>
 
----
+
+
+## toolkit
 
 <div align="center">
 
-✮ ⋆ ˚｡𖦹 ⋆｡°✩
+### languages, frameworks & infrastructure
+
+<a href="https://skillicons.dev">
+  <img
+    src="https://skillicons.dev/icons?i=python,fastapi,javascript,typescript,java,react,postgresql,sqlite,supabase,docker,git,github,githubactions,bash,powershell,vercel&amp;perline=8&amp;theme=light"
+    alt="Python, FastAPI, JavaScript, TypeScript, Java, React, PostgreSQL, SQLite, Supabase, Docker, Git, GitHub, GitHub Actions, Bash, PowerShell, and Vercel"
+  />
+</a>
+
+<br/>
+
+### agent & backend tooling
+
+<img src="https://img.shields.io/badge/Pydantic-E92063.svg?style=for-the-badge&amp;logo=pydantic&amp;logoColor=white" alt="Pydantic"/>
+<img src="https://img.shields.io/badge/Pydantic_AI-E92063.svg?style=for-the-badge&amp;logo=pydantic&amp;logoColor=white" alt="Pydantic AI"/>
+<img src="https://img.shields.io/badge/MCP-000000.svg?style=for-the-badge" alt="Model Context Protocol"/>
+<img src="https://img.shields.io/badge/FastMCP-009688.svg?style=for-the-badge&amp;logo=python&amp;logoColor=white" alt="FastMCP"/>
+<br/>
+<img src="https://img.shields.io/badge/SQLAlchemy-D71F00.svg?style=for-the-badge&amp;logo=sqlalchemy&amp;logoColor=white" alt="SQLAlchemy"/>
+<img src="https://img.shields.io/badge/Alembic-4E5D94.svg?style=for-the-badge" alt="Alembic"/>
+<img src="https://img.shields.io/badge/OpenAPI-000000.svg?style=for-the-badge&amp;logo=openapiinitiative&amp;logoColor=white" alt="OpenAPI"/>
+<img src="https://img.shields.io/badge/WebSockets-010101.svg?style=for-the-badge&amp;logo=socketdotio&amp;logoColor=white" alt="WebSockets"/>
+
+### quality
+
+<img src="https://img.shields.io/badge/pytest-ffffff.svg?style=for-the-badge&amp;logo=pytest&amp;logoColor=2f9fe3" alt="pytest"/>
+<img src="https://img.shields.io/badge/Ruff-D7FF64.svg?style=for-the-badge&amp;logo=ruff&amp;logoColor=261230" alt="Ruff"/>
+<img src="https://img.shields.io/badge/mypy-2A6DB2.svg?style=for-the-badge&amp;logo=python&amp;logoColor=white" alt="mypy"/>
 
 </div>
 
-## current work
+## other
 
-### CHAOS
-**CHAOS** is my core systems project: AI-native infrastructure for local-first orchestration, context hydration, agent coordination, and disciplined developer workflows.
+<table>
+<tr>
+<td width="50%" valign="top">
 
-The public repository is a **showcase of process, architecture direction, and engineering discipline**. The implementation itself remains private.
+### current interests
 
-current work includes:
+- context engineering, hybrid retrieval, and persistent memory
+- local-first systems, event sourcing, and replayable workflows
+- observability through logs, metrics, traces, and evidence
+- simulations, mechanics, and systems modeling
 
-- building runtime systems for multi-agent coordination
-- designing context-aware infrastructure that reduces repeated prompt overhead
-- developing local-first orchestration patterns for AI-assisted software work
-- treating memory, process, git hygiene, and operational visibility as first-class infrastructure
-- shaping CHAOS as a serious developer platform rather than a thin application layer over model APIs
+</td>
+<td width="50%" valign="top">
 
-public surfaces:
+### outside the terminal
 
-- [chaos-dev.ai](https://chaos-dev.ai)
-- [CHAOS public showcase repo](https://github.com/luvisaisa/CHAOS)
+I read, study independently, practice chess, explore tarot, and play video games.
 
-<div align="center">
+I have a vintage console collection and enjoy modding and playing retro games.
 
-✮ ⋆ ˚｡𖦹 ⋆｡°✩
+</td>
+</tr>
+</table>
 
-</div>
+<details>
+<summary><b>archived labs — prototypes in systems, mechanics, and cross-disciplinary design</b></summary>
+<br/>
 
-## focus areas
+**PAWS — ritualized productivity engine**  
+Stat-based habit system combining automation, symbolic design, and virtual-pet mechanics.
 
-- AI-native infrastructure
-- runtime systems engineering
-- local-first orchestration
-- agent coordination
-- context and memory systems
-- developer tooling
-- backend architecture
-- workflow automation
-- distributed systems engineering
+**Pokémon: Bloodline — narrative systems framework**  
+Mechanics and worldbuilding study exploring branching consequences and resource loops.
 
-<div align="center">
+**Miss Macro — hardware/UX exploration**  
+Macro-pad concept focused on workflow design and tactile–digital interaction.
 
-✮ ⋆ ˚｡𖦹 ⋆｡°✩
-
-</div>
-
-## tech stack
-
-<div align="center">
-
-### core languages & frameworks
-[![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=F5D5E0&labelColor=420D4B&color=7B337E)](https://docs.python.org/3/)
-[![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=F5D5E0&labelColor=420D4B&color=7B337E)](https://fastapi.tiangolo.com/)
-[![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=F5D5E0&labelColor=420D4B&color=7B337E)](https://www.typescriptlang.org/)
-[![Typer CLI](https://img.shields.io/badge/Typer_CLI-5B21B6?style=for-the-badge&logo=python&logoColor=F5D5E0&labelColor=420D4B&color=7B337E)](https://typer.tiangolo.com/)
-
-### data, systems, and infrastructure
-[![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=F5D5E0&labelColor=420D4B&color=6667AB)](https://www.postgresql.org/docs/)
-[![SQLite FTS](https://img.shields.io/badge/SQLite_FTS-003B57?style=for-the-badge&logo=sqlite&logoColor=F5D5E0&labelColor=420D4B&color=6667AB)](https://www.sqlite.org/fts5.html)
-[![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=F5D5E0&labelColor=420D4B&color=6667AB)](https://docs.docker.com/)
-[![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=F5D5E0&labelColor=420D4B&color=6667AB)](https://git-scm.com/doc)
-[![MCP](https://img.shields.io/badge/Model_Context_Protocol-111827?style=for-the-badge&logoColor=F5D5E0&labelColor=420D4B&color=6667AB)](https://modelcontextprotocol.io/)
-
-### workflow and quality
-[![Pydantic](https://img.shields.io/badge/Pydantic-E92063?style=for-the-badge&logo=pydantic&logoColor=F5D5E0&labelColor=420D4B&color=420D4B)](https://docs.pydantic.dev/)
-[![SQLAlchemy](https://img.shields.io/badge/SQLAlchemy-D71F00?style=for-the-badge&logo=sqlite&logoColor=F5D5E0&labelColor=420D4B&color=420D4B)](https://docs.sqlalchemy.org/)
-[![pytest](https://img.shields.io/badge/pytest-0A9EDC?style=for-the-badge&logo=pytest&logoColor=F5D5E0&labelColor=420D4B&color=420D4B)](https://docs.pytest.org/)
-[![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=F5D5E0&labelColor=420D4B&color=420D4B)](https://docs.github.com/en/actions)
-[![WebSockets](https://img.shields.io/badge/WebSockets-0F766E?style=for-the-badge&logo=socketdotio&logoColor=F5D5E0&labelColor=420D4B&color=420D4B)](https://developer.mozilla.org/en-US/docs/Web/API/WebSockets_API)
-
-</div>
-
-<div align="center">
-
-✮ ⋆ ˚｡𖦹 ⋆｡°✩
-
-</div>
-
-## connect
-
-<div align="center">
-
-| platform | link |
-|:--------:|:-----|
-| website | [**chaos-dev.ai**](https://chaos-dev.ai) |
-| linkedin | [**linkedin**](https://www.linkedin.com/in/isa-lucia-sch/) |
-| x | [**x**](https://x.com/404bloom) |
-| email | [**izzy@chaos-dev.ai**](mailto:izzy@chaos-dev.ai) |
-| resume | [**resume**](./assets/isa-schlichting-resume-runtime-systems-engineer-1page.pdf) |
-
-</div>
+</details>
 
 <div align="center">
 
 ---
 
-<sub>✮ thx for reading ! ˚｡𖦹 ⋆｡°✩</sub>
+<sub>✮ thank you for reading ˚｡𖦹 ⋆｡°✩</sub>
 
 </div>
