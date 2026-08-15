@@ -9,9 +9,9 @@
 <table>
   <tr>
     <td width="50%" valign="middle" align="left">
-      I build reliable backend, data, and agent systems that turn messy information and ambiguous workflows into dependable software.
+      I build reliable backend, data, and agent systems spanning agent orchestration, data pipelines, retrieval, automation, and developer infrastructure to turn messy information and ambiguous workflows into dependable software.
       <br/><br/>
-      My work spans agent orchestration, data pipelines, retrieval, automation, and developer infrastructure.
+      I am interested in tools that expand how people process information, explore ideas, and turn imagination into working systems.
     </td>
     <td width="50%" align="center">
       <img src="assets/luma.webp" alt="Celestial animation" width="300"/>
