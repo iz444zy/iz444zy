@@ -9,7 +9,7 @@
 <table>
   <tr>
     <td width="50%" valign="middle" align="left">
-      I build reliable backend, data, and agent systems spanning agent orchestration, data pipelines, retrieval, automation, and developer infrastructure to turn messy information and ambiguous workflows into dependable software.
+      I build reliable backend, data, and agent systems across orchestration, pipelines, retrieval, automation, and developer tooling.
       <br/><br/>
       I am interested in tools that expand how people process information, explore ideas, and turn imagination into working systems.
     </td>
